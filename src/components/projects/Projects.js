@@ -84,7 +84,7 @@ const Projects = () => {
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectOne}
-          githubLink="https://https://github.com/HEYCODERSFROMMUMBAI"
+          githubLink="https://github.com/HEYCODERSFROMMUMBAI"
           websiteLink="https://gymwebsite-nbvi.onrender.com/"
         />
         <ProjectsCard
@@ -92,7 +92,7 @@ const Projects = () => {
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
-          githubLink="https://https://github.com/HEYCODERSFROMMUMBAI"
+          githubLink="https://github.com/HEYCODERSFROMMUMBAI"
           websiteLink="https://minimart-nqne.onrender.com/"
         />
         <ProjectsCard
@@ -100,7 +100,7 @@ const Projects = () => {
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={bank}
-          githubLink="https://https://github.com/HEYCODERSFROMMUMBAI"
+          githubLink="https://github.com/HEYCODERSFROMMUMBAI"
           websiteLink="https://modernbank-uqb1.onrender.com/"
         />
         {/* Add more ProjectsCard components as needed */}
