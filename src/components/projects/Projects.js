@@ -93,7 +93,7 @@ const Projects = () => {
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectTwo}
           githubLink="https://github.com/HEYCODERSFROMMUMBAI"
-          websiteLink="https://minimart-nqne.onrender.com/"
+          websiteLink="https://minimart-96rn.onrender.com/"
         />
         <ProjectsCard
           title="Modern Bank website"
